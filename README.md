@@ -1,2 +1,1 @@
-# attendanceManager
-Manage Attendance
+# AttendaceManager
